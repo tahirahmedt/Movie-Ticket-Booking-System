@@ -1,0 +1,76 @@
+.container{
+    margin-left:6cm;
+    margin-right:6cm;
+    background-color:#CCCAB9 ;
+    height:500px;
+    width:600px;
+}
+
+
+.movie-name-theater{
+    margin-top:50px;
+    padding:10px;
+    background-color:black 
+}
+
+a{
+    font-size:24px;
+    color:white;
+    float:left;
+}
+.b{
+    font-size:18px;
+    color:white;
+    float:right;
+}
+.time-list{
+    top:50px;
+    margin:60px;
+    background-color:#555;
+}
+.title{
+    font-size:24px;
+    background-color:black;
+    color:#FFF;
+    border:1px solid black;
+    margin-top:10px;
+    margin-left:43px;
+    width:500px;
+    padding-left:10px;
+    font-weight:bold;
+    position:relative;
+}
+
+.cinema{
+    font-size:18px;
+    background-color:black;
+    color:white;
+    border:1px solid black;
+    margin-top:0px;
+    width:500px;
+    padding-right:10px;
+    float:right;
+    font-weight:bold;
+    position:relative;
+}
+
+.list{
+    margin-top:100px;
+}
+
+
+/*
+.cinema{font-size:24px;
+    background-color:black;
+    color:#FFF;
+    border:1px solid black;
+    margin-top:10px;
+    width:500px;
+    padding-left:10px;
+    font-weight:bold;
+position:relative;}*/
+
+
+input{
+    
+}

@@ -1,0 +1,65 @@
+.container{
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:5cm;
+    margin-right:5cm;
+    border:3px solid #CCCAB9;
+    background-color:#CCCAB9  ;
+    width:610px;
+    text-align:left; 
+}
+
+.movie-title{
+    font-family:font-family: 'Roboto Slab', serif;
+    font-size:22px;
+    margin-left:50px;
+    padding:10px;
+    color:white;
+    height:50px;
+    background-color:black;
+    margin-right:50px;
+    margin-bottom:0px;
+}
+.cinema{
+    background-color:#1A191B;
+    color:white;
+    height:50px;
+    
+    padding-top:10px;
+    padding-left:10px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:0px;
+}
+
+.time{
+    padding-top:10px;
+    padding-left:10px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:0px;
+    color:white;
+    background-color:#474647;
+}
+
+select{
+    height:.8cm;
+     font-family: 'Roboto Slab', serif;
+}
+span{
+    font-size:14px;
+    color:#DA36DF;
+}
+
+.book-button{
+    width:3cm;
+    height:1cm;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 18px; 
+    background-color:#FB1F05;
+    margin-bottom:5px;
+    position:relative;
+    margin-top:20px;
+    color:white;
+}
